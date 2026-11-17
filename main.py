@@ -16,6 +16,6 @@ plt.grid(axis='y', linestyle='--', alpha=0.7)
 
 plt.savefig("radyasyon_grafigi.png", dpi=300, bbox_inches='tight')
 
-print("Hedef vuruldu: Grafik 'radyasyon_grafigi.png' olarak klasöre kaydedildi!") 
+print("Grafik 'radyasyon_grafigi.png' olarak klasöre kaydedildi.") 
 
 
