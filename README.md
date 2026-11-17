@@ -13,7 +13,7 @@ measurements and real-world data science applications.
 ""Language:"" Python 3.x
 ""Libraries:""
     'Pandas' (Data manipulation, cleaning, and filtering)
-    'Matplotlin' (Data visualization and graphical output)
+    'Matplotlib' (Data visualization and graphical output)
 
   ## Result & Visualization
   The analysis ssystematically identifies geographical areas with elevated radiation levels. Below is the viasualized output of the processed dataset:
